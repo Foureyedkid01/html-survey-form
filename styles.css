@@ -1,0 +1,34 @@
+body{
+    font-size: larger;
+}
+#general{
+    background-color: #ECE5C7;
+    padding: 5px;
+    padding-left: 10px;
+    border: 2px solid;
+}
+p{
+    margin: 20px;
+}
+#name{
+    margin-left: 30px;
+}
+#gender{
+    margin-left: 20px;
+}
+#address{
+    margin-left: 15px;
+}
+#email{
+    margin-left: 29px;
+}
+#phone{
+    margin-left: 29px;
+}
+span{
+    font-weight: bold;
+}
+#personal-info{
+    margin-left: 30%;
+}
+
